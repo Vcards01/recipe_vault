@@ -31,3 +31,7 @@ O banco de dados contém uma tabela receitas com os seguintes campos:
 
 ## Demonstração Simples
 
+
+https://github.com/Vcards01/recipe_vault/assets/33523679/b84f0c8c-6790-4c60-927e-375651587b11
+
+
